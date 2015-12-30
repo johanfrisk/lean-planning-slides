@@ -36,7 +36,7 @@ these are some notes
 --- &vertical
 
 ## How to use this presentation
-
+<small>
 There are eight steps to the process, each is illustrated by a drawing. Use 
 them to work with a group to define an actionable backlog of strategic items.
 
@@ -48,16 +48,21 @@ them to work with a group to define an actionable backlog of strategic items.
 3. if you hit *'esc'* you will see a navigational view of all the slides.
 4. If you press *'s'* anywhere you come to the presenter's window.
 
+</small>
 
 ***
 
 ## Where should you do the work?
+
+<small>
+
 - Steps 1-3 are very analytical and are best done in a working 
 environment away from the office.
 - Steps 4-6 are more visionary and free-flowing, they are best done in a 
 different environment. Try something like a park, art museum or on a boat.
 - Steps 7-8 are administrative and can be done at the office.
 
+</small>
 
 *** =pnotes
 
@@ -86,7 +91,7 @@ all existing ideas out and "park" them for future use.
 1. All participants prepare post-it notes individually for 15-30 min.
 2. En turn, each participant read out the notes and stick them to board.
 3. The facilitator helps the group through a dialogue on the results, finishing
-by dot voting.
+by<br>dot voting.
 4. The facilitator holds a retrospective over the exercise.
 
 <br>
@@ -95,7 +100,7 @@ by dot voting.
 
 - Happening and Should happen = Strength,
 - Happening and Shouldn't happen = Problems, to be investigated further 
-by using Goldratt's [current reality tree](
+by using<br>Goldratt's [current reality tree](
 https://en.wikipedia.org/wiki/Current_reality_tree_\(Theory_of_constraints\)
 ), 
 - Isn't happening and Should happen = Problems, 
@@ -209,23 +214,82 @@ via mobile phones.
 
 these are some notes
 
----
+--- &vertical
 
 ## Step 5: 
 ##### Create a memory of the future
 
 <img height="400" src="assets/img/slide5.jpg">
 
+***
+
+## Step 5: Strategy
+<small>
+Look back onf exercises 2, 3 and 4 and reflect.
+
+##### Insight
+Summarize the main insights, list what is new and document on A3:s.
+
+<br>
+
+##### Foresight
+1. Extrapolate from the past and what you think is happening in your markets.
+2. Estimate the probabilities of your predictions on a scale from 0-100%.
+3. Identify knowledge gaps and risks.
+
+<br>
+
+Finish the work on this stage with a retrospective session.
+
+</small>
+
 *** =pnotes
 
 these are some notes
 
----
+--- &vertical
 
 ## Step 6: 
 ##### Create the action backlog
 
 <img height="400" src="assets/img/slide6.jpg">
+
+***
+
+## Step 6: Action
+<small>
+Time to bring it all together and make it possible to execute. A brilliant 
+plan in a drawer will always lose to one that is implemented, even if weak.
+
+<br>
+
+##### Backlog
+- Assemble the material from 'opportunities' in step 3 and what you see that needs 
+fixing in step 5, plus all other actionable material.
+
+<br>
+
+##### Prio
+- Select the items on the backlog that are both desireable from a custom/user point
+of view, financially viable and technically feasible.
+- Rank the selected items on [cost of delay](http://www.leadingagile.com/2015/06/an-introduction-to-cost-of-delay/) as 
+defined by Don Reinertsen.
+
+<br>
+
+##### Implement
+- Distribute the backlog items in prio order to teams with the adequate 
+competence. The best way to start up the work is to ask the team to report 
+back on time estimates and acceptance criteria before any major investments.
+- Ask the team for frequent demos (sometimes called Integration Events). The 
+frequent reports makes it impossible to finish work before feedback, this is 
+the best way to ensure that the team is successful. If the team is allowed to 
+finish, it is very easy to fall into the trap of defending the work rather than 
+accepting valid objections.
+
+<br>
+
+</small>
 
 *** =pnotes
 
@@ -236,7 +300,30 @@ these are some notes
 ## Step 7: 
 ##### Start the learning cycle
 
-When something new happens... it creates new hindsight in step four.
+ <q>When the facts change, I change my mind. What do you do, sir?</q>
+ <br><small>-John Maynard Keynes</small>
+
+<small>
+- A Lean planning process takes reality into account. In a standard budget process 
+the planning work is so difficult, detailed and time consuming that it cannot 
+be repeated until a year later. But, much happens during a year and when things 
+change the strategy must adapt.
+
+<br>
+
+- Install a procedure to revisit and update steps 2 and 4-6 on a regular monthly or 
+quarterly basis. The timespan depends on the speed of change in your industry. If 
+more frequent updates are necessary the time spent in each step has to be limited.
+
+<br>
+
+- Take special care to prune the backlog so that it is reasonable in size 
+compared to the interval between strategy updates. It does not make sense to 
+have a backlog with 18 months of activity if your world changes twice a year.
+
+
+
+</small>
 
 *** =pnotes
 
@@ -245,9 +332,19 @@ these are some notes
 ---
 
 ## Step 8: 
-##### You cannot correct your own homework
+##### Invite independent critique
+<small>
+If the group preparing the strategy could see the flaws in their own reasoning 
+they would of course correct the work. Make sure that you get independent 
+review and critique of the world view that the team came up with.
 
-Red team
+<br>
+
+##### There are two major obstacles that can cloud the judgment of the team
+- The first is [cognitive biases](http://en.citizendium.org/wiki/Cognitive_traps_for_intelligence_analysis), such as mirror imaging, anchoring, and confirmation bias. In the scientific method, one first proposes a hypothesis, experiments, then comes to a conclusion as the data allows. In politics, however, most people will read some information, come up with a hypothesis, and then fit any further information into their own hypothesis.
+- The second obstacle stems from [organizational biases](http://www.globoforce.com/gfblog/2012/8-cognitive-biases-that-will-make-or-break-your-culture/). Employees become captured by the institutional culture that they experience daily and adopt the personal preferences of their bosses and workplaces.
+
+</small>
 
 *** =pnotes
 
@@ -259,11 +356,3 @@ these are some notes
 <small>from all the LeanBees...</small><br>
 <img height="300" src="assets/img/bees.jpg">
 
----
-## Known issues
-<small>
-
-- All text center aligned, even when not easy to read.
-- Step one explanation (down) is not properly aligned at second half.
-
-</small>
