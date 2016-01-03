@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 # Lean Planning 
 ### in 8 simple steps
 <br><br>
-<small>written by Johan Frisk&copy; for LeanBee.se</small>
+<small>written by Johan Frisk&copy; for [LeanBee](www.leanbee.se)</small>
 
 ---
 
@@ -37,7 +37,7 @@ these are some notes
 
 ## How to use this presentation
 <small>
-There are eight steps to the process, each is illustrated by a drawing. Use 
+There are eight steps to the process, the first six are illustrated by a drawing. Use 
 them to work with a group to define an actionable backlog of strategic items.
 
 <br>
