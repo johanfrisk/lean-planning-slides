@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 # Lean Planning 
 ### in 8 simple steps
 <br><br>
-<small>written by Johan Frisk&copy; for [LeanBee](www.leanbee.se)</small>
+<small>written by Johan Frisk&copy; for [LeanBee](http://leanbee.se)</small>
 
 ---
 
