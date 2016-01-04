@@ -20,7 +20,10 @@ knit        : slidify::knit2slides
 
 # Lean Planning 
 ### in 8 simple steps
-<br><br>
+<br>
+Only 8% of Leaders Are Good at Both Strategy and Execution
+<small>according to [Harvard Business Review, Dec 2015](https://hbr.org/2015/12/only-8-of-leaders-are-good-at-both-strategy-and-execution?utm_source=twitter&utm_medium=social&utm_campaign=harvardbiz)</small>
+<br>
 <small>written by Johan Frisk&copy; for [LeanBee](http://leanbee.se)</small>
 
 ---
@@ -353,6 +356,6 @@ these are some notes
 ---
 
 # Thanks!
-<small>from all the LeanBees...</small><br>
+<small>johan@leanbee.se</small><br>
 <img height="300" src="assets/img/bees.jpg">
 
