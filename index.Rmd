@@ -1,6 +1,6 @@
 ---
 title       : Lean Planning
-subtitle    : a lean and agile planning method in 6 simple steps
+subtitle    : a lean and agile planning method in 8 simple steps
 author      : Johan Frisk
 job         : LeanBee consultant
 url: {lib: "."}
