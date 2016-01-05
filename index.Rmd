@@ -228,7 +228,7 @@ these are some notes
 
 ## Step 5: Strategy
 <small>
-Look back onf exercises 2, 3 and 4 and reflect.
+Look back on exercises 2, 3 and 4 and reflect.
 
 ##### Insight
 Summarize the main insights, list what is new and document on A3:s.
