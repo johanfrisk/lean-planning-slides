@@ -1,6 +1,6 @@
 ---
 title       : Lean Planning
-subtitle    : a lean and agile planning method in 6 simple steps
+subtitle    : a lean and agile planning method in 8 simple steps
 author      : Johan Frisk
 job         : LeanBee consultant
 url: {lib: "."}
@@ -340,6 +340,10 @@ these are some notes
 If the group preparing the strategy could see the flaws in their own reasoning 
 they would of course correct the work. Make sure that you get independent 
 review and critique of the world view that the team came up with.
+
+Many companies today are awash in ideas and do not know how to choose.
+<br>
+<small>according to [Harvard Business Review, Feb 2016](https://hbr.org/2016/01/the-innovative-power-of-criticism)</small>
 
 <br>
 
