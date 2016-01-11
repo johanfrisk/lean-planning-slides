@@ -341,7 +341,8 @@ If the group preparing the strategy could see the flaws in their own reasoning
 they would of course correct the work. Make sure that you get independent 
 review and critique of the world view that the team came up with.
 
-Many companies today are awash in ideas and do not know how to choose.
+Many companies today are awash in ideas and do not know how to use the innovative
+power of critisism.
 <br>
 <small>according to [Harvard Business Review, Feb 2016](https://hbr.org/2016/01/the-innovative-power-of-criticism)</small>
 
